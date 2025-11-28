@@ -38,7 +38,7 @@ Create a database named stockmarket
 
 Import your stock data tables
 
-
+__________________________________________________________________________________________________________________
 Update database credentials in the code:
 
 pythonDB_CONFIG = {
@@ -52,7 +52,7 @@ pythonDB_CONFIG = {
 'database': 'stockmarket'
 
 }
-
+_________________________________________________________________________________________________________________
 Required Database Tables:
 
 stockwhole - Main stock data with date, ticker, close, volume
