@@ -3,11 +3,17 @@ A comprehensive Streamlit dashboard for analyzing stock market data with interac
 Features
 ________________________________________________________________________________________________________________
 Market Overview: View overall market summary with green/red stock distribution
+
 Top Performers: Analyze top gainers and losers by yearly returns
+
 Volatility Analysis: Examine stock price fluctuations and risk metrics
+
 Cumulative Returns: Track investment performance over time
+
 Sector Performance: Compare returns across different sectors
+
 Correlation Matrix: Identify relationships between stock prices
+
 Monthly Analysis: Review monthly performance for specific periods
 ________________________________________________________________________________________________________________
 Prerequisites
