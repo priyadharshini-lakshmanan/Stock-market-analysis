@@ -43,17 +43,17 @@ Update database credentials in the code:
 
 pythonDB_CONFIG = {
 
-    'user': 'your_username',
-    
-    'password': 'your_password',
-    
-    'host': 'localhost',
-    
-    'database': 'stockmarket'
-    
+'user': 'your_username',
+
+'password': 'your_password',
+
+'host': 'localhost',
+
+'database': 'stockmarket'
+
 }
 
-Required Database Tables
+Required Database Tables:
 
 stockwhole - Main stock data with date, ticker, close, volume
 
@@ -68,7 +68,7 @@ cumulative_return - Cumulative returns over time
 volatility_per_ticker - Volatility metrics per stock
 
 ___________________________________________________________________________________________________________
-Usage
+Usage:
 
 Run the dashboard
 
