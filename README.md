@@ -1,4 +1,5 @@
 Stock Market Analysis Dashboard
+
 A comprehensive Streamlit dashboard for analyzing stock market data with interactive visualizations and insights.
 Features
 ________________________________________________________________________________________________________________
